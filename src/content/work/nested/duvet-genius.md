@@ -2,7 +2,7 @@
 title: Compactable Safety Device
 publishDate: 2024-08-23 00:00:00
 img: /assets/safetydevice.jpg
-img_alt: A sleek, compact device designed for optimal portability and safety.
+
 description: |
   We developed a groundbreaking compactable safety device that revolutionizes how technology can ensure personal safety on-the-go.
 tags:
