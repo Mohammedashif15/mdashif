@@ -1,6 +1,6 @@
 title: Location and Automatic Call
 
-Published: June 15, 2024
+Publish date : June 15, 2024
 
 Image: /assets/location.jpg
 Image Alt: A bright pink sheet of paper used to wrap flowers curves in front of rich blue background
